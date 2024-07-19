@@ -3,7 +3,7 @@ title: Hello 929World
 description: Welcome to 929
 slug: hello-world
 date: 2024-07-19 16:15:00+0800
-image: cover.jpg
+image: 微信图片_20240719213733.jpg
 categories:
     - Example Category
 tags:
