@@ -1,8 +1,8 @@
 ---
 title: "歌单"
-date: 2022-03-06
+
 layout: "archives"
-slug: "archives"
+slug: "songs collection"
 menu:
     main:
         weight: 2
