@@ -1,5 +1,5 @@
 ---
-title: 歌曲链接
+title: 年度合集
 links:
   - title: GitHub
     description: GitHub is the world's largest software development platform.
@@ -9,7 +9,7 @@ menu:
     main: 
         weight: 4
         params:
-            icon: link
+            icon: calendar
 
 comments: false
 ---
